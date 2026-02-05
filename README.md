@@ -20,5 +20,5 @@ market sentiment conditions such as Fear, Greed, and Extreme Greed.
 3. All analysis and plots will be reproduced
 
 ## Files
-- Analysis.ipynb – main analysis notebook
+- Trader_Behavior_Analysis.ipynb – main analysis notebook
 
